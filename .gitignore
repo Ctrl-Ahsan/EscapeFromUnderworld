@@ -1,0 +1,6 @@
+# Ignore Assets
+Escape\ from\ Underworld/Assets/*
+
+#Except for Scripts
+!Escape\ from\ Underworld/Assets/Scripts/
+*.meta
